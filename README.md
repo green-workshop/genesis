@@ -9,6 +9,10 @@ whole thing is the single file `index.html`.
 
 ## Run it
 
+**Play it now: https://green-workshop.github.io/genesis/**
+
+Or locally:
+
 Double-click `index.html` (Chrome, Edge or Firefox). Go fullscreen and turn the sound on.
 
 `serve.js` is only a convenience for previewing over `http://localhost:5173`
